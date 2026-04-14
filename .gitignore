@@ -2,8 +2,8 @@
 .DS_Store
 
 # environment variables
-.env
 
-.vscode/
 .claude/
 *.log*
+config.bat
+node_modules
